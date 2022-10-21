@@ -39,7 +39,7 @@ int main()
 }
 ```
 #week06-3
-##求最大公因數(從0開始逐次計算到有)
+## 求最大公因數(從0開始逐次計算到有)
 #include <stdio.h>
 ```cpp
 int main()
@@ -57,7 +57,7 @@ int main()
 }
 ```
 #week06-4
-##由大至小尋找最大公因數
+## 由大至小尋找最大公因數
 ```cpp#include <stdio.h>
 int main()
 {
@@ -78,7 +78,7 @@ int main()
 ```
 
 #week06-5
-##所有的數值幾乎都成立, 只有 0 是不成意
+## 所有的數值幾乎都成立, 只有 0 是不成意
 ```cpp
 #include <stdio.h>
 int main()
